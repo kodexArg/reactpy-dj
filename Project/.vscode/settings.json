@@ -1,0 +1,16 @@
+{
+    "favorites.resources": [
+        {
+            "filePath": "Project/settings.py",
+            "group": "Default"
+        },
+        {
+            "filePath": "Project/urls.py",
+            "group": "Default"
+        },
+        {
+            "filePath": "App/views.py",
+            "group": "Default"
+        }
+    ]
+}
